@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\rabia\global değisken örnekleri\global değisken örnekleri\bin\Debug\global değisken örnekleri.exe.config
+C:\Users\User\Desktop\KORUMASIZ\rabia\global değisken örnekleri\global değisken örnekleri\bin\Debug\global değisken örnekleri.exe
+C:\Users\User\Desktop\KORUMASIZ\rabia\global değisken örnekleri\global değisken örnekleri\bin\Debug\global değisken örnekleri.pdb
+C:\Users\User\Desktop\KORUMASIZ\rabia\global değisken örnekleri\global değisken örnekleri\obj\Debug\global değisken örnekleri.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\global değisken örnekleri\global değisken örnekleri\obj\Debug\global değisken örnekleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\global değisken örnekleri\global değisken örnekleri\obj\Debug\global_değisken_örnekleri.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\rabia\global değisken örnekleri\global değisken örnekleri\obj\Debug\global_değisken_örnekleri.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\rabia\global değisken örnekleri\global değisken örnekleri\obj\Debug\global değisken örnekleri.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\global değisken örnekleri\global değisken örnekleri\obj\Debug\global değisken örnekleri.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\global değisken örnekleri\global değisken örnekleri\obj\Debug\global değisken örnekleri.exe
+C:\Users\User\Desktop\KORUMASIZ\rabia\global değisken örnekleri\global değisken örnekleri\obj\Debug\global değisken örnekleri.pdb
